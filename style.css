@@ -1,0 +1,30 @@
+#container {
+    align-content: center;
+    margin:auto;
+}
+#wrap {
+    width:100%;
+/*    background-color: red;*/
+    margin: 0 auto;
+    align-content: center;
+    text-align: center;
+}
+
+.intro {
+    margin-top: 5%;
+}
+.button {
+    background-color: lightpink;
+    padding: 10 20px;
+    border-radius: 15px;
+    border: none;
+    color: dimgray;
+}
+
+#shell {
+    width:25%;
+}
+
+#rakim {
+    width:40%;
+}
