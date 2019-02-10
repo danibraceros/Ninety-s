@@ -1,0 +1,37 @@
+#container {
+    align-content: center;
+    margin:auto;
+}
+#wrap {
+    width:100%;
+/*    background-color: red;*/
+    margin: 0 auto;
+    align-content: center;
+    text-align: center;
+}
+
+.intro {
+    margin-top: 3%;
+}
+.button {
+    font-family:silkscreen;
+    font-size:225%;
+    cursor: pointer;
+    text-align: center;
+    background-color: lightpink;
+    padding: 10 20px;
+    border-radius: 15px;
+    border: none;
+    color: dimgray;
+}
+
+#rakim {
+    width:35%;
+}
+
+.configurations {
+    align-content: center;
+    width:40%;
+    align-content: center;
+    margin:auto;
+}
