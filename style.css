@@ -11,7 +11,7 @@
 }
 
 .intro {
-    margin-top: 5%;
+    margin-top: 3%;
 }
 .button {
     background-color: lightpink;
@@ -21,10 +21,13 @@
     color: dimgray;
 }
 
-#shell {
-    width:25%;
+#rakim {
+    width:35%;
 }
 
-#rakim {
-    width:40%;
+.configurations {
+    align-content: center;
+    width:50%;
+    align-content: center;
+    margin:auto;
 }
